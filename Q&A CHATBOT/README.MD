@@ -1,4 +1,3 @@
-Here’s a professional, well-structured **README.md** version of your draft (cleaned, formal, and properly formatted):
 
 ---
 
@@ -109,11 +108,3 @@ By default, the application will be available at:
 You can now interact with your local LLM through the chatbot interface.
 
 ---
-
-## Screenshot
-
-*(Replace this section with an actual screenshot of your application running.)*
-
----
-
-Would you like me to also create a **section for “Future Improvements” and “Contributing”** so your README looks startup-grade and attractive to recruiters?
