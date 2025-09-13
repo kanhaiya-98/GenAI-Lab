@@ -2,7 +2,7 @@
 # 🔍 AI Research Assistant With Search Engine  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Blazingly-fast+AI+Research+Assistant;Search+the+Web+%7C+Explore+Wikipedia+%7C+Fetch+ArXiv+Papers;Powered+by+LangChain+%2B+Groq+LPU+Engine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Blazingly-fast+AI+Research+Assistant;Search-+Web+%7C+Explore+Wikipedia+%7C+Fetch+ArXiv+Papers;Powered+by+LangChain+%2B+Groq+LPU+Engine" alt="Typing SVG" />
 </p>  
 
 <p align="center">
@@ -135,4 +135,5 @@ flowchart TD
 ```
 
 ---
+
 
