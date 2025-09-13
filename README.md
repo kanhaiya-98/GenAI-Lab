@@ -45,11 +45,8 @@ Think **ChatGPT**, but tailored: Conversational RAG pipelines, local privacy-fir
 <p align="center">
   <img src="assets/application1.png" width="45%" />
   <img src="assets/application2.png" width="45%" />
-</p>  
+</p> [![Explore Project](https://img.shields.io/badge/Explore_Project-%230A66C2.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/RAG-Q%26A-CHATBOT-WITH-PDF-%26-CHAT-HISTORY)
 
-🔗 [Explore Project →]([./RAG-Q&A-CHATBOT-WITH-PDF-&-CHAT-HISTORY](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/RAG-Q%26A-CHATBOT-WITH-PDF-%26-CHAT-HISTORY))  
-
----
 
 ### 2️⃣ 💻 Local LLM Chatbot  
 
