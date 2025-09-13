@@ -55,14 +55,13 @@ Think **ChatGPT**, but tailored: Conversational RAG pipelines, local privacy-fir
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="48" />
   <img src="https://avatars.githubusercontent.com/u/123345040?s=200&v=4" height="48" title="Groq" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" title="Hugging Face" />
-  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma-logo.png" height="48" title="ChromaDB" />
+
 </p>
 
 ---
 
 ### 🚀 Explore
 [![Explore Project](https://img.shields.io/badge/Explore_Project-%230A66C2.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/RAG-Q%26A-CHATBOT-WITH-PDF-%26-CHAT-HISTORY)
-
 
 
 ### 2️⃣ 💻 Local LLM Chatbot  
@@ -73,14 +72,27 @@ Think **ChatGPT**, but tailored: Conversational RAG pipelines, local privacy-fir
   <img src="https://github.com/ikatyang/emoji-cheat-sheet/raw/master/public/graphics/emojis/brain.png" width="40" /> 
 </p>
 
-Run **LLMs on your own machine**. Fully private, no API cost.  
-Supports **Llama 3, Phi-3, Mistral** with Ollama backend.  
+Run **LLMs on your own machine**.  
+Fully **private**, no API cost, no data sharing 🌐❌.  
+Supports **Llama 3, Phi-3, Mistral** with **Ollama backend**.  
 
-✅ Modern UI  
-✅ Session-based memory  
-✅ Parameter tuning live  
+✅ **Modern UI**  
+✅ **Session-based Memory**  
+✅ **Parameter Tuning (live)**  
 
-🔗 [Explore Project →]([./Q&A CHATBOT](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/Q%26A%20CHATBOT))  
+---
+
+### 🔥 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,streamlit,git,github,vscode,docker" />
+  <img src="https://avatars.githubusercontent.com/u/150010367?s=200&v=4" height="48" title="Ollama" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="48" title="LangChain" />
+</p>
+
+---
+
+### 🚀 Explore
+[![Explore Project](https://img.shields.io/badge/Explore_Project-%230A66C2.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/Q%26A%20CHATBOT)
 
 ---
 
