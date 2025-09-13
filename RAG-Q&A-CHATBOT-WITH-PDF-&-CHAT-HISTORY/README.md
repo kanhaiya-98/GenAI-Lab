@@ -118,6 +118,7 @@ streamlit run RAG-Q&A-WITH-PDF-&-CHAT-HISTORY/app.py
 
 ## 📸 Screenshots
 Here’s a quick preview of the project 👇
-
- ![](assets/application1.png) | ![](assets/application2.png) 
-
+<p align="center">
+  <img src="assets/application1.png" alt="Screenshot 1" width="45%"/>
+  <img src="assets/application2.png" alt="Screenshot 2" width="45%"/>
+</p>
