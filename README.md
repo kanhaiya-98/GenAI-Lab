@@ -47,7 +47,7 @@ Think **ChatGPT**, but tailored: Conversational RAG pipelines, local privacy-fir
   <img src="assets/application2.png" width="45%" />
 </p>  
 
-🔗 [Explore Project →]([./RAG-Q&A-WITH-PDF-&-CHAT-HISTORY](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/RAG-Q%26A-CHATBOT-WITH-PDF-%26-CHAT-HISTORY))  
+🔗 [Explore Project →]([./RAG-Q&A-CHATBOT-WITH-PDF-&-CHAT-HISTORY](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/RAG-Q%26A-CHATBOT-WITH-PDF-%26-CHAT-HISTORY))  
 
 ---
 
@@ -66,7 +66,7 @@ Supports **Llama 3, Phi-3, Mistral** with Ollama backend.
 ✅ Session-based memory  
 ✅ Parameter tuning live  
 
-🔗 [Explore Project →]([./LOCAL-LLM-CHATBOT](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/Q%26A%20CHATBOT))  
+🔗 [Explore Project →]([./Q&A CHATBOT](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/Q%26A%20CHATBOT))  
 
 ---
 
