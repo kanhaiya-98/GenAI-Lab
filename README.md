@@ -52,7 +52,7 @@ It can **search the web**, **explore Wikipedia**, and **fetch ArXiv papers** to 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,streamlit,git,github,vscode,docker" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="48" title="LangChain" />
-  <img src="https://avatars.githubusercontent.com/u/152672493?s=200&v=4" height="48" title="Groq" />
+ 
 </p>
 
 ---
