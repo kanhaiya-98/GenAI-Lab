@@ -14,8 +14,20 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,git,github,docker,vscode" />
-</p>  
+  <!-- Skillicons (core stack) -->
+  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,docker,pytorch,git,github,vscode,mongodb,postgresql,azure,gcp,linux" />
+</p>
+
+<p align="center">
+  <!-- Badges (GenAI stack) -->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-DC267F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Milvus-00B5AD?style=for-the-badge" />
+</p>
+
 
 ---
 
