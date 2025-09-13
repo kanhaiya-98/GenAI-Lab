@@ -30,7 +30,40 @@ Think **ChatGPT**, but tailored: Conversational RAG pipelines, local privacy-fir
 
 ## 📂 Projects Showcase  
 
-### 1️⃣ 🤖 Conversational RAG Q&A  
+### 3️⃣ 🔍 AI Research Assistant With Search Engine  
+
+<p align="center">
+  <img src="https://github.com/ikatyang/emoji-cheat-sheet/raw/master/public/graphics/emojis/microscope.png" width="40" /> 
+  <img src="https://github.com/ikatyang/emoji-cheat-sheet/raw/master/public/graphics/emojis/books.png" width="40" /> 
+  <img src="https://github.com/ikatyang/emoji-cheat-sheet/raw/master/public/graphics/emojis/rocket.png" width="40" /> 
+</p>
+
+A **blazingly-fast AI Research Assistant** built with **LangChain Agents** and **Groq’s LPU Engine**.  
+It can **search the web**, **explore Wikipedia**, and **fetch ArXiv papers** to deliver **research-grade answers in real time**.  
+
+✅ **Autonomous Agent (ReAct)**  
+✅ **Multi-Tool Support** (DuckDuckGo, Wikipedia, ArXiv)  
+✅ **Lightning-Fast Inference with Groq**  
+✅ **Conversation Memory + Live Thought Process**  
+
+---
+
+### 🔥 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,streamlit,git,github,vscode,docker" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="48" title="LangChain" />
+  <img src="https://avatars.githubusercontent.com/u/152672493?s=200&v=4" height="48" title="Groq" />
+</p>
+
+---
+
+### 🚀 Explore
+[![Explore Project](https://img.shields.io/badge/Explore_Project-%230A66C2.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/AI%20RESEARCH%20ASSISTANT%20WITH%20SEARCH%20ENGINE)
+
+---
+
+
+### 2️⃣ 🤖 Conversational RAG Q&A  
 
 <p align="center">
   <img src="https://github.com/ikatyang/emoji-cheat-sheet/raw/master/public/graphics/emojis/page_facing_up.png" width="40" /> 
@@ -60,7 +93,7 @@ Think **ChatGPT**, but tailored: Conversational RAG pipelines, local privacy-fir
 [![Explore Project](https://img.shields.io/badge/Explore_Project-%230A66C2.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/RAG-Q%26A-CHATBOT-WITH-PDF-%26-CHAT-HISTORY)
 
 
-### 2️⃣ 💻 Local LLM Chatbot  
+### 1️⃣ 💻 Local LLM Chatbot  
 
 <p align="center">
   <img src="https://github.com/ikatyang/emoji-cheat-sheet/raw/master/public/graphics/emojis/computer.png" width="40" /> 
