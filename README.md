@@ -42,10 +42,6 @@ Think **ChatGPT**, but tailored: Conversational RAG pipelines, local privacy-fir
 
 ✅ Built on **Streamlit + LangChain + Groq + HuggingFace + ChromaDB**
 
-<p align="center">
-  <img src="assets/application1.png" width="45%" />
-  <img src="assets/application2.png" width="45%" />
-</p>
 
 ---
 
