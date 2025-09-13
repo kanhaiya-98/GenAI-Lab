@@ -1,8 +1,9 @@
 
+# 🔍 AI Research Assistant With Search Engine  
 
----
-
-# 🔍 AI Research Assistant With Search Engine
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Blazingly-fast+AI+Research+Assistant;Search+the+Web+%7C+Explore+Wikipedia+%7C+Fetch+ArXiv+Papers;Powered+by+LangChain+%2B+Groq+LPU+Engine" alt="Typing SVG" />
+</p>  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" />
@@ -13,24 +14,14 @@
   <img src="https://img.shields.io/github/forks/kanhaiya-98/GenAI-Lab?style=social" />
 </p>  
 
-A **blazingly-fast AI Research Assistant** built with **LangChain Agents** and **Groq’s LPU Engine**.
-This tool can **search the web**, **explore Wikipedia**, and **fetch academic papers from ArXiv** to deliver **research-grade answers in real-time**.
+A **blazingly-fast AI Research Assistant** built with **LangChain Agents** and **Groq’s LPU Engine**.  
+This tool can **search the web**, **explore Wikipedia**, and **fetch academic papers from ArXiv** to deliver **research-grade answers in real-time**.  
 
-💡 Designed for **students, researchers, and developers** who need an instant research sidekick.
-
----
-
-## 🌈 Screenshots
-
-<p align="center">
-  <img src="assets/app1.png" width="80%" />
-</p>  
-
-<p align="center">
-  <img src="assets/app2.png" width="80%" />
-</p>  
+💡 Designed for **students, researchers, and developers** who need an instant research sidekick.  
 
 ---
+
+
 
 ## ✨ Features
 
@@ -51,6 +42,18 @@ This tool can **search the web**, **explore Wikipedia**, and **fetch academic pa
 * **LLM Provider:** Groq LPU Engine
 * **Tools:** DuckDuckGo Search, Wikipedia, ArXiv
 * **Language:** Python
+
+---
+
+## 🌈 User Interface Highlights
+
+<p align="center">
+  <img src="assets/app1.png" width="80%" />
+</p>  
+
+<p align="center">
+  <img src="assets/app2.png" width="80%" />
+</p>  
 
 ---
 
@@ -132,3 +135,4 @@ flowchart TD
 ```
 
 ---
+
