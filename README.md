@@ -113,7 +113,7 @@ Supports **Llama 3, Phi-3, Mistral** with **Ollama backend**.
 
 ---
 
-## 🎬 Demo Animations  
+## 🎬  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
@@ -128,8 +128,13 @@ Supports **Llama 3, Phi-3, Mistral** with **Ollama backend**.
 - 🧩 **Reusable AI Components**  
 
 ---
+## 🤝 Let’s Connect  
 
-## ⚡ Fun Extras  
+⭐ If this repo inspired you — drop a star!  
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/kanhayya-gupta-b46a5b329/)  
+
+---
+## ⚡ Extras! 
 
 - 📈 Dynamic Profile Stats:  
 <p align="center">
@@ -142,9 +147,4 @@ Supports **Llama 3, Phi-3, Mistral** with **Ollama backend**.
 </p>  
 
 ---
-
-## 🤝 Let’s Connect  
-
-⭐ If this repo inspired you — drop a star!  
-📬 Reach me on [LinkedIn](https://www.linkedin.com/in/kanhayya-gupta-b46a5b329/)  
 
