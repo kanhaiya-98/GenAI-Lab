@@ -47,7 +47,7 @@ Think **ChatGPT**, but tailored: Conversational RAG pipelines, local privacy-fir
   <img src="assets/application2.png" width="45%" />
 </p>  
 
-🔗 [Explore Project →](./RAG-Q&A-WITH-PDF-&-CHAT-HISTORY)  
+🔗 [Explore Project →]([./RAG-Q&A-WITH-PDF-&-CHAT-HISTORY](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/RAG-Q%26A-CHATBOT-WITH-PDF-%26-CHAT-HISTORY))  
 
 ---
 
@@ -66,15 +66,26 @@ Supports **Llama 3, Phi-3, Mistral** with Ollama backend.
 ✅ Session-based memory  
 ✅ Parameter tuning live  
 
-🔗 [Explore Project →](./LOCAL-LLM-CHATBOT)  
+🔗 [Explore Project →]([./LOCAL-LLM-CHATBOT](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/Q%26A%20CHATBOT))  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
+  <!-- Common dev tools -->
   <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,docker,pytorch,git,github,vscode" />
 </p>
+
+<p align="center">
+  <!-- Extra GenAI stack -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="LangChain" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/133502268?s=200&v=4" alt="Groq" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/logo.png" alt="ChromaDB" width="50" height="50"/>
+</p>
+
 
 ---
 
