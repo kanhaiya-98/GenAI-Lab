@@ -15,7 +15,7 @@
 
 <p align="center">
   <!-- Skillicons (core stack) -->
-  <img src="https://skillicons.dev/icons?i=python,flask,huggingface,fastapi,docker,pytorch,git,github,vscode,mongodb,postgresql,azure,gcp,linux" />
+  <img src="https://skillicons.dev/icons?i=python,flask,dockerhub,crewai,fastapi,docker,pytorch,git,github,vscode,mongodb,postgresql,azure,gcp,linux" />
 </p>
 
 <p align="center">
