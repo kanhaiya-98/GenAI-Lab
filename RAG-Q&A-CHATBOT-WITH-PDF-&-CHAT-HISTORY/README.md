@@ -57,9 +57,10 @@ An **AI-powered Research Assistant** that allows you to:
 
 ```mermaid
 flowchart TD
-    A[📂 PDF Upload] --> B[🔎 Chunking & Embedding]
-    B --> C[🗄️ Vector Store - ChromaDB]
-    C --> D[📜 Query Reformulation - History Aware]
-    D --> E[🔍 Similarity Search]
-    E --> F[⚡ Groq LLM (Gemma-9b-it)]
-    F --> G[🤖 Answer Generated]
+    A["PDF Upload"] --> B["Chunking & Embedding"]
+    B --> C["Vector Store - ChromaDB"]
+    C --> D["Query Reformulation - History Aware"]
+    D --> E["Similarity Search"]
+    E --> F["Groq LLM (Gemma-9b-it)"]
+    F --> G["Answer Generated"]
+
