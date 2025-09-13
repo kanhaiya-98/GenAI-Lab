@@ -72,22 +72,20 @@ Supports **Llama 3, Phi-3, Mistral** with Ollama backend.
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <!-- Core Dev & Infra -->
-  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,docker,pytorch,git,github,vscode,azure,linux" />
+  <!-- Skillicons (core stack) -->
+  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,docker,pytorch,git,github,vscode,mongodb,postgresql,azure,gcp,linux" />
 </p>
 
 <p align="center">
-  <!-- GenAI & Data Stack -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="LangChain" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/133502268?s=200&v=4" alt="Groq" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="Anthropic" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/milvus-io/milvus/master/site/themes/docsy/static/img/milvus-logo.svg" alt="Milvus" width="50" height="50"/>
-  <img src="https://vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" width="50" height="50"/>
+  <!-- Badges (GenAI stack) -->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-DC267F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Milvus-00B5AD?style=for-the-badge" />
 </p>
+
 
 
 
