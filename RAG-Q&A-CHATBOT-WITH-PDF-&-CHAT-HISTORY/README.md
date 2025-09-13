@@ -117,4 +117,7 @@ streamlit run RAG-Q&A-WITH-PDF-&-CHAT-HISTORY/app.py
 ---
 
 ## 📸 Screenshots
+Here’s a quick preview of the project 👇
+
+ ![](assets/application1.png) | ![](assets/application2.png) 
 
