@@ -40,12 +40,29 @@ Think **ChatGPT**, but tailored: Conversational RAG pipelines, local privacy-fir
 
 **Talk to your PDFs!** Upload, ask questions, and get **context-aware answers** with chat history.  
 
-✅ Built on **Streamlit + LangChain + Groq + HuggingFace + ChromaDB**  
+✅ Built on **Streamlit + LangChain + Groq + HuggingFace + ChromaDB**
 
 <p align="center">
   <img src="assets/application1.png" width="45%" />
   <img src="assets/application2.png" width="45%" />
-</p> [![Explore Project](https://img.shields.io/badge/Explore_Project-%230A66C2.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/RAG-Q%26A-CHATBOT-WITH-PDF-%26-CHAT-HISTORY)
+</p>
+
+---
+
+### 🔥 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,docker,pytorch,git,github,vscode,mongodb" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="48" />
+  <img src="https://avatars.githubusercontent.com/u/123345040?s=200&v=4" height="48" title="Groq" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" title="Hugging Face" />
+  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma-logo.png" height="48" title="ChromaDB" />
+</p>
+
+---
+
+### 🚀 Explore
+[![Explore Project](https://img.shields.io/badge/Explore_Project-%230A66C2.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanhaiya-98/GenAI-Lab/tree/main/RAG-Q%26A-CHATBOT-WITH-PDF-%26-CHAT-HISTORY)
+
 
 
 ### 2️⃣ 💻 Local LLM Chatbot  
