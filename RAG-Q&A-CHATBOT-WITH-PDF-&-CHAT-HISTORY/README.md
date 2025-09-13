@@ -1,4 +1,4 @@
-# 🤖 Conversational RAG Q\&A with PDF Uploads & Chat History
+# 🤖 Conversational RAG Q&A with PDF Uploads & Chat History  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" />
@@ -18,107 +18,48 @@
 
 ## 🚀 What is this?
 
-An **AI-powered Q\&A assistant** that lets you:
+An **AI-powered Research Assistant** that allows you to:  
 
-* Upload **PDFs** 📑
-* Ask **conversational questions** 💬
-* Get **context-aware answers** ⚡
-* Keep **chat history** persistent 🔄
+✨ Upload **PDFs** 📑  
+✨ Ask **conversational questions** 💬  
+✨ Receive **context-aware answers** ⚡  
+✨ Keep **chat history** persistent 🔄  
 
-Built with **Streamlit + LangChain + Groq + Hugging Face + Chroma DB**.
+✅ Built on **Streamlit + LangChain + Groq + HuggingFace + ChromaDB**  
+
+<p align="center">
+  <img src="assets/application1.png" width="45%" />
+  <img src="assets/application2.png" width="45%" />
+</p>
 
 ---
 
-## ✨ Features
+## ✨ Features  
 
-✅ **PDF Upload** – Single or multiple files.
-✅ **Conversational Chat** – Natural dialogue with your docs.
-✅ **Persistent Memory** – Session-based chat history.
-✅ **RAG Pipeline** – Retrieval before generation for accuracy.
-✅ **Groq LLM** – Lightning-fast inference.
-✅ **Secure Keys** – `.env` for Hugging Face & Groq.
+✅ **PDF Upload** – Single or multiple files  
+✅ **Conversational Chat** – Natural dialogue with your docs  
+✅ **Persistent Memory** – Session-based chat history  
+✅ **RAG Pipeline** – Retrieval before generation for accuracy  
+✅ **Groq LLM** – Lightning-fast inference  
+✅ **Secure Keys** – `.env` for Hugging Face & Groq  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,azure,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,streamlit,git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="48" title="LangChain"/>
+  <img src="https://avatars.githubusercontent.com/u/150010367?s=200&v=4" height="48" title="Groq"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="48" title="HuggingFace"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" height="48" title="Docker"/>
 </p>  
 
 ---
 
-## ⚙️ How It Works
+## ⚙️ How It Works  
 
 ```mermaid
 flowchart TD
     A[📂 PDF Upload] --> B[🔎 Chunking & Embedding]
-    B --> C[🗄️ Vector Store - Chroma]
+    B --> C[🗄️ Vector Store - ChromaDB]
     C --> D[📜 Query Reformulation - History Aware]
     D --> E[🔍 Similarity Search]
     E --> F[⚡ Groq LLM (Gemma-9b-it)]
     F --> G[🤖 Answer Generated]
-```
-
----
-
-## 🛠️ Tech Stack
-
-* **UI** → Streamlit
-* **Orchestration** → LangChain
-* **LLM** → Groq (Gemma2-9b-It)
-* **Embeddings** → Hugging Face (all-MiniLM-L6-v2)
-* **Vector Store** → Chroma DB
-* **Loader** → PyPDFLoader
-* **Env Mgmt** → python-dotenv
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,docker" />  
-</p>  
-
----
-
-## 🚀 Getting Started
-
-### 🔧 Prerequisites
-
-* Python **3.8+**
-* `pip`
-
-### ⚡ Setup
-
-```bash
-# 1. Clone
-git clone https://github.com/kanhaiya-98/GenAI-Lab.git
-cd GenAI-Lab
-
-# 2. Virtual Environment
-python -m venv venv
-# Windows
-.\venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
-
-# 3. Install Dependencies
-pip install -r RAG-Q&A-WITH-PDF-&-CHAT-HISTORY/requirements.txt
-
-# 4. Configure .env
-HF_TOKEN="your_hugging_face_api_token"
-
-# 5. Run
-streamlit run RAG-Q&A-WITH-PDF-&-CHAT-HISTORY/app.py
-```
-
----
-
-## 📖 Usage
-
-1. 🔑 Enter **Groq API key** (get from [Groq Console](https://console.groq.com/))
-2. 🆔 Set a **Session ID** (optional, keeps chats separate)
-3. 📂 Upload PDFs
-4. 💬 Ask questions → Get AI answers with history
-
----
-
-## 📸 Screenshots
-Here’s a quick preview of the project 👇
-<p align="center">
-  <img src="assets/application1.png" alt="Screenshot 1" width="45%"/>
-  <img src="assets/application2.png" alt="Screenshot 2" width="45%"/>
-</p>
