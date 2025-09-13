@@ -62,7 +62,7 @@ pip install -r RAG-Q&A-WITH-PDF-&-CHAT-HISTORY/requirements.txt
 
 
 4. Configure Environment Variables
-Create a file named .env inside the RAG-Q&A-WITH-PDF-&-CHAT-HISTORY directory. This file will store your Hugging Face API token.
+Create a file named .env inside the RAG-Q&A-WITH-PDF-&-CHAT-HISTORY directory. This file will store your Hugging Face API token
 HF_TOKEN="your_hugging_face_api_token"
 
 
